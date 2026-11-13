@@ -1,0 +1,16 @@
+sku,product_name,current_stock,average_daily_demand,lead_time_days,safety_stock,supplier
+SG-1001,Industrial Nitrile Gloves - Medium,1840,126,9,700,Northstar Safety Goods
+SG-1002,Industrial Nitrile Gloves - Large,1325,118,9,650,Northstar Safety Goods
+SG-1003,Corrugated Shipping Carton - Small,2860,175,6,900,Bluehaven Packaging
+SG-1004,Corrugated Shipping Carton - Large,940,82,8,500,Bluehaven Packaging
+SG-1005,Reinforced Packing Tape - Clear,1675,96,5,420,Meridian Packing Works
+SG-1006,Thermal Shipping Label Roll,720,54,14,480,Vertex Label Systems
+SG-1007,Reusable Plastic Pallet - Standard,188,12,21,110,Ironleaf Material Handling
+SG-1008,Warehouse Barcode Scanner,34,2.4,28,20,Signal Ridge Technologies
+SG-1009,High-Visibility Safety Vest,415,18,12,180,Northstar Safety Goods
+SG-1010,Desiccant Packet Case,1090,61,16,550,Dryline Industrial Supply
+SG-1011,Insulated Cold-Chain Liner,255,22,18,240,PolarSpan Logistics Materials
+SG-1012,Temperature Indicator Strip,680,37,24,420,PolarSpan Logistics Materials
+SG-1013,Steel Pallet Strapping Coil,146,8.5,20,95,Ironleaf Material Handling
+SG-1014,Stretch Wrap Film - 500 mm,530,31,11,260,Meridian Packing Works
+SG-1015,Absorbent Spill Pad Pack,305,14,15,170,Dryline Industrial Supply
